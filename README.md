@@ -13,7 +13,7 @@ Build environment
 * Java **JDK 8**
 * Web Container: Apache **Tomcat** 
 * JavaServer Faces **JSF** 2.2
-* LDAP: **OpenLDAP** --> for ASecured Authentication
+* LDAP: **OpenLDAP** --> for Secured Authentication
 * RDBMS: **PostgreSQL** --> for Relational Data Storage
 * NoSQL: Apache **Cassandra** --> for Dynamique Data Storage
 
