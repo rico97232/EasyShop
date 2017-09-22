@@ -15,5 +15,5 @@ Easy2Deploy, Easy2Maintain and Easy2Use initially designed and developed by the 
 
 3. RDBMS: PostgreSQL https://www.postgresql.org/
 
-4: NoSQL: Cassandra  http://cassandra.apache.org/
+4. NoSQL: Cassandra  http://cassandra.apache.org/
 
