@@ -7,13 +7,20 @@ EasyShop is a JSF-based eCommerce Platform.
 Easy2Deploy, Easy2Maintain and Easy2Use initially designed and developed by the EASYVOX Team for his own usage.
 
 
-### Technologies
+Build environment
+-----------------
 
-1. Language: Java
+* Java **JDK 8**
+* Web Container: Apache **Tomcat** 
+* JavaServer Faces **JSF** 2.2
+* LDAP: **OpenLDAP** --> for ASecured Authentication
+* RDBMS: **PostgreSQL** --> for Relational Data Storage
+* NoSQL: Apache **Cassandra** --> for Dynamique Data Storage
 
-2. Web Framework: JavaServer Faces **JSF**  
 
-3. RDBMS: PostgreSQL https://www.postgresql.org/
-
-4. NoSQL: Cassandra  http://cassandra.apache.org/
-
+Links
+-----
+* https://tomcat.apache.org/
+* https://www.openldap.org/
+* https://www.postgresql.org/
+* http://cassandra.apache.org/
