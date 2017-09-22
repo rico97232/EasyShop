@@ -1,8 +1,8 @@
 # EasyShop
 
-## Welcome EasyShop Pages
+## Welcome to EasyShop Open Source Project
 
-JSF-based eCommerce Platform.
+EasyShop is a JSF-based eCommerce Platform.
 
 Easy2Deploy, Easy2Maintain and Easy2Use initially designed and developed by the EASYVOX Team for his own usage.
 
@@ -11,4 +11,4 @@ Easy2Deploy, Easy2Maintain and Easy2Use initially designed and developed by the 
 1. Language: Java
 2. Web Framework: JavaServer Faces **JSF**  
 3. RDBMS: PostgreSQL https://www.postgresql.org/
-4:NoSQL: Cassandra  http://cassandra.apache.org/
+4: NoSQL: Cassandra  http://cassandra.apache.org/
